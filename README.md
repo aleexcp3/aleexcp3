@@ -14,6 +14,6 @@
 
 ## 📫 Connect with me
 - 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-camino-pardo-803981285)  
-- ✉️ [Email](alecampar11@gmail.com)  
+- ✉️ [Email] alecampar11@gmail.com   
 
 ---
