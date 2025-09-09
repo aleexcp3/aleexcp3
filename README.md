@@ -2,9 +2,6 @@
 
 💻 Fullstack Developer | 🎓 Final-year Computer Science Student (Software Engineering specialization)  
 
-I'm passionate about technology, software development, and building efficient solutions.  
-Always eager to learn, improve, and contribute to impactful projects.  
-
 ---
 
 ## 🔧 Tech Stack
