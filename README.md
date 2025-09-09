@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Alejandro!
 
-<!--
-**aleexcp3/aleexcp3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Fullstack Developer | 🎓 Final-year Computer Science Student (Software Engineering specialization)  
 
-Here are some ideas to get you started:
+I'm passionate about technology, software development, and building efficient solutions.  
+Always eager to learn, improve, and contribute to impactful projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+- **Frontend:** React, Angular, Angular Material , HTML, CSS, JavaScript, TypeScript  
+- **Backend:** Node.js, Java, Python  
+- **Databases:** MySQL, PostgreSQL 
+- **Other tools:** Git, Docker
+
+---
+
+## 📫 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-camino-pardo-803981285)  
+- ✉️ [Email](alecampar11@gmail.com)  
+
+---
